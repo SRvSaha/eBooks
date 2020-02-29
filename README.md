@@ -1,7 +1,7 @@
 # eBooks
 ## Must Read eBooks for experienced Software Engineers to learn the art of Software Craftmanship.
 
-Emphasis is on Clean Code, Clean Architecture, Low Level System Design, High Level System Design, Industry Standards & Best Practices, Large Scale Distributed Systems Architecture.
+The emphasis is on *Clean Code, Clean Architecture, Low Level System Design, High Level System Design, Industry Standards & Best Practices, Large Scale Distributed Systems Architecture*.
 
 These usually focus on Language/Framework/Platform **Agnostic** knowledge which don't get outdated with time.
 
