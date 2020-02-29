@@ -1,5 +1,5 @@
 # eBooks
-Must Read eBooks for experienced Software Engineers 
+Must Read eBooks for experienced Software Engineers to learn the art of Software Craftmanship
 
 - Clean Code
 
@@ -11,5 +11,4 @@ Must Read eBooks for experienced Software Engineers
 
 - Design Patterns (DoFactory)
 
-- Coding Interview
 
