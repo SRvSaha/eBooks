@@ -7,7 +7,7 @@ These usually focuses on Language/Framework/Platform Agnostic knowledge which do
 the following areas to grow from Junior Engineer to Senior Engineers where they can differentiate between Pros and Cons of design decisions 
 and create Softwares which are highly maintainable apart from being scalable & reliant.
 
-Emphasis is on *Clean Code, Clean Architecture, Low Level System Design, High Level System Design, Best Practices, System Architecture*.
+Emphasis is on *Clean Code, Clean Architecture, Low Level System Design, High Level System Design, Industry Standards & Best Practices, Large Scale Distributed Systems Architecture*.
 
 - Clean Code
 
