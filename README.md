@@ -1,16 +1,15 @@
 # eBooks
 Must Read eBooks for experienced Software Engineers 
 
-## Clean Code
+- Clean Code
 
-## Refactoring
+- Refactoring
 
-## System Design
+- System Design
 
-## .NET Architecture
+- .NET Architecture/MVC/Core
 
-## Design Patterns (DoFactory)
+- Design Patterns (DoFactory)
 
-## Coding Interview
+- Coding Interview
 
-## .NET MVC/Core
